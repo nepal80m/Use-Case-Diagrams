@@ -2,7 +2,9 @@
 
 This system is a simple and modified representation of the closed chat room feature of the Clubhouse App. This diagram intends to show what a **Listener** and a **Moderator** can do in this **Clubhouse Closed Chat Room**.
 
-![Alternate image text](./ClubhouseClosedChatRoom.jpg)
+## **Use Case Diagram**
+
+![Alternate image text](./UseCaseDiagram.jpg)
 
 ### **Actors Involved**:
 
